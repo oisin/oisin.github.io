@@ -1,0 +1,44 @@
+/*
+ *  Overrides on the 'lanyon' stylesheet goes in here
+ */
+
+html {
+  font-family: "Source Sans Pro", "PT Serif", Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+code,
+pre {
+  font-family: source-code-pro, Menlo, Monaco, "Courier New", monospace;
+}
+
+.sidebar {
+  font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+.pagination {
+  font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+.masthead-title small {
+  font-size: 55%;
+  font-weight: 400;
+  float: right;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
+
+/* Dark */
+.theme-base-oisin .sidebar,
+.theme-base-oisin .sidebar-toggle:active,
+.theme-base-oisin #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #0f0f0f;
+}
+.theme-base-oisin .container a,
+.theme-base-oisin .sidebar-toggle,
+.theme-base-oisin .related-posts li a:hover {
+  color: #0f0f0f;
+}
