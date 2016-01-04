@@ -4,13 +4,16 @@
 permalink:           pretty
 relative_permalinks: false
 
+# Gemes used
+gems: [jekyll-paginate]
+
 # Setup
 title:               Old Dog, New Tricks
 tagline:             'writing and tales from <a href="https://twitter.com/oisin" target="_blank">@oisin</a>'
 description:         'Writing and tales from <a href="https://twitter.com/oisin" target="_blank">@oisin</a>'
 url:                 https://nis.io
 baseurl:             ''
-#paginate:            5
+paginate:            5
 
 # About/contact
 author:

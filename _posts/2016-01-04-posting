@@ -1,0 +1,16 @@
+---
+layout: post
+title: Postin' Postin' Postin'
+---
+
+see that poster postin'
+
+{ highlight ruby}
+require 'foobar'
+
+class XYZ
+  def wibble
+    p "hello"
+  end
+end
+{ endhighlight }
