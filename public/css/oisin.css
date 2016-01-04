@@ -10,11 +10,18 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
 }
 
-code,
+/* Source code has better font and stronger grey background */
 pre {
   font-family: source-code-pro, Menlo, Monaco, "Courier New", monospace;
+  background-color: #e5e5e5;
 }
 
+/* Figure containing code is not squished so much horizontally */
+figure {
+  margin: 10px;
+}
+
+/* Set the main fonts */
 .sidebar {
   font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
 }
@@ -23,6 +30,7 @@ pre {
   font-family: "Source Sans Pro", "PT Sans", Helvetica, Arial, sans-serif;
 }
 
+/* Move the masthead's tagline out to the right and shrink it*/
 .masthead-title small {
   font-size: 55%;
   font-weight: 400;
