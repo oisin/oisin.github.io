@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/oisin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nis.io
+  * I am oisin (https://keybase.io/oisin) on keybase.
+  * I have a public key ASC0A_zoL86v3jnllvUERjixJcTYfUOCnK9gXpCUnkgVzwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b403fce82fceafde39e596f5044638b125c4d87d43829caf605e90949e4815cf0a",
+      "host": "keybase.io",
+      "kid": "0120b403fce82fceafde39e596f5044638b125c4d87d43829caf605e90949e4815cf0a",
+      "uid": "92258dbe746f20b479909dcff069a900",
+      "username": "oisin"
+    },
+    "merkle_root": {
+      "ctime": 1534003053,
+      "hash": "f0b98ee3af6af65e6e6862f62c85d57a475fb0b09005d3bed42fa54be9ec4407cd5f884cf61de6fe10acbf2f9c23912b7671c90e46569bfad0c527f4dfba580a",
+      "hash_meta": "1c96770bf3a4273213697ec548d44d8eefa0d86fc80b42b394e3ef4b95b0ccfd",
+      "seqno": 3442318
+    },
+    "service": {
+      "entropy": "VpCIrnpqfRHGXbNKDxXzyTt7",
+      "hostname": "nis.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534003065,
+  "expire_in": 504576000,
+  "prev": "7ed53d0e9a2867370e73a9557790b1e18fdd4f7bbd67228bc54a51a12d676ebb",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtAP86C/Or9455Zb1BEY4sSXE2H1DgpyvYF6QlJ5IFc8Kp3BheWxvYWTESpcCFsQgftU9DpooZzcOc6lVd5Cx4Y/dT3u9ZyKLxUpRoS1nbrvEIGucG0ERpqcZuC/gWGASQMz82R/jRErrJ8wFNf8w4QrjAgHCo3NpZ8RAj7Wm+xzxgI0+d4Mg9dxw4OfZ73NumAqMe5lMSKPaqpuE63LxNBnfYh4GUZSe5jGj13HsFzyqlak9TLvOfDamDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICdPHHZZ8A0LoSEKhL/AhkwCEUAWfYDttlE6tOhZhETso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oisin
+
+==================================================================
+
